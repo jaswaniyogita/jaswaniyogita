@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswaniyogita&label=Profile%20views&color=0e75b6&style=flat" alt="jaswaniyogita" /> </p>
 <img align="right" height="400" width="500" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 
-- 💻 I’m Developer at **Salesforce**
+- 💻 I have worked as an APM at **Salesforce**
 
 - 🌱 I’m currently learning **Machine Learning, DevOps**
 
