@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, DevOps**
 
-- 📫 How to reach me **jaswaniyogita@gmail.com**
+- 📫 How to reach me **jaswaniyogita1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
